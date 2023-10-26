@@ -3,6 +3,7 @@ library(quantmod)
 library(ROI.plugin.glpk)
 library(ROI.plugin.quadprog)
 
+#Hola será
 acciones<-c("AMZN","AAPL","NFLX","FB")
 fecini<-"2016-01-02"
 perio<-"daily"
